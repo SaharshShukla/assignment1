@@ -7,16 +7,16 @@ public class assignment1 {
 		// TODO Auto-generated method stub
 // qst1) print 1 to 10 in forward order via while loop
 	/*	int n=1;
-		while(n<=10) {
-			System.out.println(n);
-			n++;
+		while(n<=10) {//n is less than or equal to 10 will get check,here 10 is loop counter 
+			System.out.println(n);//after checking the condition n value will get print
+			n++;// after printing n vlaue, n will get increment by 1
 }*/
 		
 //qst2) print 10 to 1  in reversed order via while loop		
 	/*	int n=10;
-		while(n>=1) {
-			System.out.println(n);
-			n--;
+		while(n>=1) {//n is greater than or equal to 1 will get check,here 1 is loop counter 
+			System.out.println(n);//after checking the condition n value will get print
+			n--;// after printing n vlaue ,n will get dicrement by 1
 		}*/
 		
 //qst3) print 10 to 2  in reversed order via while loop		
