@@ -19,7 +19,7 @@ public class assignment4 {
 			System.out.println(" ");}
 	
 	//lower part
-		for(i=(5-1);i>=1;i--) {//to print row of diamond 
+		for(i=(5-1);i>=1;i--) {//to print row of diamond //5-1 to print row of 4 diamond after upper diamond
 			for(j=5;j>i;j--) {
 				System.out.print(" ");}// to print column
 				for( k=1;k<=2*(i-1);k++) {//to generate space
@@ -33,11 +33,11 @@ public class assignment4 {
 /*int n=5;
         for ( int i=n;i>=1;i-- ){     
 
-            for (int j=1;j<=(n-i);j++){ 
+            for (int j=1;j<=(n-i);j++){ //generate space 
                 System.out.print(" ");
             }
 
-            for (int j=1;j<=i;j++){
+            for (int j=1;j<=i;j++){//print diamond 
                 System.out.print("*"+" ");
             }
             System.out.println();
