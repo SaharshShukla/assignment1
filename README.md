@@ -1,0 +1,1 @@
+# assignments_on_java_fundamental_week_1
